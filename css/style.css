@@ -1,0 +1,54 @@
+                    #ctg1 {
+                        font-size: 30px;
+                        text-transform: uppercase;
+                        font-style: italic;
+                    }
+                    
+                    #ctg2 {
+                        font-size: 25px;
+                        text-decoration: line-through;
+                    }
+                    
+                    .s_style {
+                        font-size: 25px;
+                        text-align: end;
+                    }
+                    
+                    #ctg3 {
+                        font-size: 25px;
+                        background-color: aquamarine;
+                        text-align: justify;
+                    }
+                    
+                    #ctg4 {
+                        font-size: 25px;
+                        color: rgb(211, 24, 24);
+                        background-image: url(../images/ctg.jpg);
+                        background-repeat: inherit;
+                        background-attachment: scroll;
+                        background-position: top
+                    }
+                    
+                    .sass {
+                        text-indent: 50px;
+                        font-size: 25px;
+                        text-align: left;
+                        text-decoration: wavy;
+                    }
+                    
+                    .sass2 {
+                        color: green;
+                        font-size: 25px;
+                        line-height: 2.5;
+                    }
+                    
+                    #ctg5 {
+                        color: magenta;
+                        letter-spacing: 20px;
+                    }
+                    
+                    #ctg6 {
+                        word-spacing: 40px;
+                        text-transform: lowercase;
+                        text-align: left;
+                    }
